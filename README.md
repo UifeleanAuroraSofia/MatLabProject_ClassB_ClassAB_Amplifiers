@@ -40,7 +40,7 @@
 
 <h3>Screenshots</h3>
 <p>Below is an example of the graphical user interface:</p>
-<img src="image.png" alt="MATLAB Amplifier Simulation GUI" style="max-width: 100%; height: auto;">
+<img src="image_gui.jpg" alt="MATLAB Amplifier Simulation GUI" style="max-width: 100%; height: auto;">
 
 <h3>Notes</h3>
 <ul>
